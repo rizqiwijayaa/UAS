@@ -1,8 +1,5 @@
 # UAS
 
-
-# 🍽️ Aplikasi Kasir Sederhana untuk Kafe ☕
-
 ## 📝 Deskripsi
 Program ini adalah aplikasi kasir sederhana berbasis Java untuk membantu pelanggan memesan makanan dan minuman di sebuah kafe. Dengan program ini, pelanggan dapat:
 
